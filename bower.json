@@ -7,9 +7,10 @@
         "slick/slick.scss"
     ],
     "version": "1.5.9",
-    "homepage": "https://github.com/kenwheeler/slick",
+    "homepage": "https://github.com/jonnybot0/slick",
     "authors": [
-        "Ken Wheeler <ken_wheeler@me.com>"
+        "Ken Wheeler <ken_wheeler@me.com>",
+        "Jonny Carter <JCarter@missouristate.edu>"
     ],
     "description": "the last carousel you'll ever need",
     "keywords": [
